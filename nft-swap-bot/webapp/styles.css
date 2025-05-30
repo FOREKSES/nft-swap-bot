@@ -1,0 +1,22 @@
+body {
+    background: #0a0a2e;
+    color: white;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.nft-card {
+    background: #1a1a4a;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+button {
+    background: #2a5ee6;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
