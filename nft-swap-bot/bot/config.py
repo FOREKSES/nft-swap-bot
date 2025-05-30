@@ -1,4 +1,4 @@
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
+BOT_TOKEN = "8156265494:AAFg8E7mUMNQMddeDSoRxc5ICCDK2WQ0Eik"
 COMMISSION_PERCENT = 0.02  # 2% комиссия
 MIN_COMMISSION = 0.5       # Минимум 0.5 TON
 SURIKATISS_ACCOUNT = "@surikatisss"
